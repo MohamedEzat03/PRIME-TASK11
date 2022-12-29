@@ -27,7 +27,7 @@ namespace PRIME_TASK11
                 }
                 if (sum == 2)
                 {
-                    Console.WriteLine("PERFECT IS:"+i);
+                    Console.WriteLine("PRIME IS:"+i);
                     sum = 0;
                 }
                 else
